@@ -8,6 +8,14 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
 }
+.title{
+    margin-top:40px;
+    font-size:6vw;
+    font-weight:bolder;
+    color: white;
+    text-align:center;
+}
+    
 .container{
     display: flex;
     justify-content: center;
